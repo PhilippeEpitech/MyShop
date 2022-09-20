@@ -1,0 +1,45 @@
+/* reset */
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'roboto', sans-serif;
+}
+
+h1,
+p {
+    margin: 0;
+}
+
+.navbar-brand {
+    font-size: 32px;
+}
+
+.connexion-title {
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.registration-title {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.success {
+    color: green;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.alarm {
+    color: red;
+    font-weight: bolder;
+    text-align: center;
+}
+/* index */
+
